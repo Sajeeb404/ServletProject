@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Context docBase="F:/Programming/Project/CRUD/ServCrud/src/main/webapp">
+  <Resources cacheMaxSize="10240">
+    <PreResources base="F:/Programming/Project/CRUD/ServCrud/target/classes" className="org.apache.catalina.webresources.DirResourceSet" webAppMount="/WEB-INF/classes"/>
+    <PostResources base="C:/Users/Admin/.m2/repository/com/mysql/mysql-connector-j/8.0.32/mysql-connector-j-8.0.32.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/mysql-connector-j-8.0.32.jar"/>
+    <PostResources base="C:/Users/Admin/.m2/repository/com/google/protobuf/protobuf-java/3.21.9/protobuf-java-3.21.9.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/protobuf-java-3.21.9.jar"/>
+    <PostResources base="C:/Users/Admin/.m2/repository/com/itextpdf/barcodes/7.1.15/barcodes-7.1.15.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/barcodes-7.1.15.jar"/>
+    <PostResources base="C:/Users/Admin/.m2/repository/org/slf4j/slf4j-api/1.7.30/slf4j-api-1.7.30.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/slf4j-api-1.7.30.jar"/>
+    <PostResources base="C:/Users/Admin/.m2/repository/com/itextpdf/font-asian/7.1.15/font-asian-7.1.15.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/font-asian-7.1.15.jar"/>
+    <PostResources base="C:/Users/Admin/.m2/repository/com/itextpdf/forms/7.1.15/forms-7.1.15.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/forms-7.1.15.jar"/>
+    <PostResources base="C:/Users/Admin/.m2/repository/com/itextpdf/hyph/7.1.15/hyph-7.1.15.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/hyph-7.1.15.jar"/>
+    <PostResources base="C:/Users/Admin/.m2/repository/com/itextpdf/io/7.1.15/io-7.1.15.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/io-7.1.15.jar"/>
+    <PostResources base="C:/Users/Admin/.m2/repository/com/itextpdf/kernel/7.1.15/kernel-7.1.15.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/kernel-7.1.15.jar"/>
+    <PostResources base="C:/Users/Admin/.m2/repository/org/bouncycastle/bcpkix-jdk15on/1.68/bcpkix-jdk15on-1.68.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/bcpkix-jdk15on-1.68.jar"/>
+    <PostResources base="C:/Users/Admin/.m2/repository/org/bouncycastle/bcprov-jdk15on/1.68/bcprov-jdk15on-1.68.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/bcprov-jdk15on-1.68.jar"/>
+    <PostResources base="C:/Users/Admin/.m2/repository/com/itextpdf/layout/7.1.15/layout-7.1.15.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/layout-7.1.15.jar"/>
+    <PostResources base="C:/Users/Admin/.m2/repository/com/itextpdf/pdfa/7.1.15/pdfa-7.1.15.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/pdfa-7.1.15.jar"/>
+    <PostResources base="C:/Users/Admin/.m2/repository/com/itextpdf/sign/7.1.15/sign-7.1.15.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/sign-7.1.15.jar"/>
+    <PostResources base="C:/Users/Admin/.m2/repository/com/itextpdf/styled-xml-parser/7.1.15/styled-xml-parser-7.1.15.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/styled-xml-parser-7.1.15.jar"/>
+    <PostResources base="C:/Users/Admin/.m2/repository/com/itextpdf/svg/7.1.15/svg-7.1.15.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/svg-7.1.15.jar"/>
+    <PostResources base="C:/Users/Admin/.m2/repository/javax/mail/javax.mail-api/1.6.2/javax.mail-api-1.6.2.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/javax.mail-api-1.6.2.jar"/>
+    <PostResources base="C:/Users/Admin/.m2/repository/com/sun/mail/javax.mail/1.6.2/javax.mail-1.6.2.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/javax.mail-1.6.2.jar"/>
+    <PostResources base="C:/Users/Admin/.m2/repository/javax/activation/activation/1.1/activation-1.1.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/activation-1.1.jar"/>
+  </Resources>
+</Context>
