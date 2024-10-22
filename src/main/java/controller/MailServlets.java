@@ -22,8 +22,7 @@ public class MailServlets extends HttpServlet {
     protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
 
 
-        String username = "ssajeebs@gmail.com";
-        String password = "powj nsex dkvx mlsz";
+     
 
         Properties properties = new Properties();
         properties.put("mail.smtp.auth","true");
